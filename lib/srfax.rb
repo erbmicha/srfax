@@ -1,6 +1,7 @@
 require 'restclient'
 require 'active_support'
 require 'active_support/core_ext/hash'
+require 'active_support/core_ext/module/attribute_accessors'
 require 'json'
 require 'srfax/version'
 
